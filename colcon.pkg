@@ -1,0 +1,8 @@
+{
+  "name": "guts_utils_py",
+  "dependencies": {
+    "pybind11",
+    "guts_utils"
+  },
+  "hooks": []
+}

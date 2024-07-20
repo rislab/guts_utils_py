@@ -1,10 +1,6 @@
-import pickle
 import numpy as np
-import scipy.linalg
-import pyproj
 import matplotlib.pyplot as plt
 import math
-import time
 
 from guts_utils import GUTS
 
